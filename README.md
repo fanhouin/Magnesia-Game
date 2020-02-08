@@ -1,8 +1,8 @@
 # Magnesia-Game
 ## Game Engine: Unity 2018.4.6f1
-## Game Source Code: https://drive.google.com/open?id=1j9F28gguQ4OuJMn-4E9q1tdLx9nCY2FH
-## Game Download: https://drive.google.com/open?id=1l1ZoAcVFlBDDr4y5W50QF1mj42ZrUvG-
-## Demo Video: https://www.youtube.com/watch?v=9oxjwob-N4o
+## Game Source Code: https://drive.google.com/open?id=1ZYzPiZmv1N5hIw0Fq-J3RsZ2GGg2J8Em
+## Game Download: https://drive.google.com/open?id=1lCTLRf1wSzGSAJRHWNwiuNuvSFVyWk09
+## Demo Video: https://www.youtube.com/watch?v=2Z20OfMypr4
 
 ## Game description(pdf): https://drive.google.com/open?id=1FTzBIBS-qd4ZIvNBYhBnSGrz671UgSjO 
 ## Game description(ppt): https://drive.google.com/open?id=1a6xmNxx3WOGIT89K02zp3f6bs2bDXLxk
