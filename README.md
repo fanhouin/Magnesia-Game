@@ -5,6 +5,7 @@
 ## [Game Download](https://drive.google.com/open?id=1lCTLRf1wSzGSAJRHWNwiuNuvSFVyWk09)
 ## [Game description(pdf)](https://drive.google.com/open?id=1FTzBIBS-qd4ZIvNBYhBnSGrz671UgSjO)
 ## [Game description(ppt)](https://drive.google.com/open?id=1a6xmNxx3WOGIT89K02zp3f6bs2bDXLxk)
+![image](https://user-images.githubusercontent.com/46760916/181744508-4b15ed4b-6e0c-43fb-a36e-91752f82a1bb.png)
 
 ### 遊戲簡介
 - 第三人稱動作及解迷游戲，玩家是一名磁鐵人，有四種操作磁鐵的方式
