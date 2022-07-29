@@ -22,8 +22,8 @@
 
 ### 素材
 - 3D素材大多是Unity Asset Store中的付費素材
-- UI是由隊友自己畫出來。
+- UI是由隊友自己畫出來
 
 ### 特別鳴謝
 - 隊友們：林家合、符嘉尹、黃立信
-- 靈感：Control, Zelda
+- 遊戲靈感由源：Control, Zelda
